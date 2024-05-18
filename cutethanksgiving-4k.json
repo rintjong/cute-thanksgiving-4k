@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads": "FACEBOOK",
-      "select_backup_ads":"ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "858574602409155_858577365742212",
       "main_ads_intertitial":"858574602409155_858577295742219",
       "main_ads_rewards":"null",
